@@ -35,3 +35,7 @@ Domain - Healthcare
 
 Programming - Python
 
+Tableau Public Dashboard link -
+
+https://public.tableau.com/app/profile/tanushreepoojary/viz/HeartDiseaseDiagnosticAnalysisproject/HeartDiseaseDiagnosticAnalysis?publish=yes
+
