@@ -28,6 +28,8 @@ Heart disease.csv
 Datasets are available in zip files. Google Drive links have been shared below:
 https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL?usp=sharing
 
+Report Drive Link: https://drive.google.com/drive/u/0/folders/1LTB9inXWzPpjqj2aJoj3s--zzBjiR0F7
+
 
 Technology - Business Intelligence
 
